@@ -24,6 +24,14 @@ print(nombreCompleto.isalnum()); #Devuelve True si el string solo contiene letra
 print(nombreCompleto.isupper()); #Devuelve True si el string solo contiene mayusculas
 print(nombreCompleto.islower()); #Devuelve True si el string solo contiene minusculas
 
+#Operaciones Aritmeticas
+print(edad + 1); #Suma el integer a 1
+print(edad - 1); #Resta el integer a 1
+print(edad * 2); #Multiplica el integer por 2
+print(edad / 2); #Divide el integer por 2
+print(edad % 2); #Devuelve el modulo del integer
+print(edad ** 2); #Eleva el integer a la potencia de 2
+
 #Metodos Integer
 print(edad.add(1)); #Suma el integer a 1
 print(edad.subtract(1)); #Resta el integer a 1
